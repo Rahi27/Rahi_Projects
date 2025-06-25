@@ -1,4 +1,5 @@
 # Rahi_Projects
+## ML final project1
  Heart Disease Prediction using K-Means
  • Developed an unsupervised machine learning model to analyze heart disease risk using the K-Means algorithm.
  • Processed and visualized the dataset to find optimal clusters using the elbow method.
@@ -15,3 +16,8 @@
  • Built a model to classify gender as male or female based on input features.
  • Used gradient descent to minimize errors and updated model parameters.
  • Tested model for accuracy and evaluated overall performance.
+
+ ## Madhav_ecommerce_sale_powerBI
+ E-Commerce Sales Dashboard using Power BI
+ • Analyzed sales trends and created interactive dashboards using Power BI.
+ • Enabled visual insights for data-driven business decisions.
